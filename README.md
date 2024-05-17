@@ -1,8 +1,10 @@
-# React + Vite
+# Shopping Cart Using React, Context API, useReducer Hook
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Learn how to create a fully functional shopping cart for an ecommerce website using React JS, Context API, and the useReducer Hook. In this tutorial, we'll cover how to manage cart state, update quantities, and handle checkout functionality. Perfect for developers looking to build robust ecommerce applications with React. Topics covered:
+  Setting up a React project with Context API
+  Creating a shopping cart component with useReducer
+  Managing cart state and updating quantities
+  Best practices for ecommerce development with React
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#shoppingCart #reactJS #contextAPI #useReducer
